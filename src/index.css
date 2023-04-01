@@ -6,6 +6,10 @@
 
 .list-item{
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   /* margin: 0 10px; */
+}
+
+.list-item *{
+  margin: 5px;
 }

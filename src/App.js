@@ -19,7 +19,7 @@ const App = () => {
     // else{
     //   arr1.push(1);
     // }
-    arr1.push("addName");
+    arr1.push({name: "addName", type: "String", subRows: []});
     
     console.log("Arr", arr1);
     setArr(arr1);
