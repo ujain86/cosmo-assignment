@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cosmo-assignment/static/css/main.87db2292.css",
+    "main.js": "/cosmo-assignment/static/js/main.1102abd9.js",
+    "index.html": "/cosmo-assignment/index.html",
+    "main.87db2292.css.map": "/cosmo-assignment/static/css/main.87db2292.css.map",
+    "main.1102abd9.js.map": "/cosmo-assignment/static/js/main.1102abd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87db2292.css",
+    "static/js/main.1102abd9.js"
+  ]
+}
